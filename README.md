@@ -1,6 +1,4 @@
 # BASH-Scripts
-<h1>Personal bash scripts</h1>
-<br />
 <br />
 <h3><b>Script Descriptions</b></h3>
 <br />
