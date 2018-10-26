@@ -11,3 +11,8 @@ Sets up a LAMP (Linux, Apache, MySQL, PHP) server by downloading the various com
 <b><i>update-sys.sh</i></b>
 <br />
 Updates the linux box when logged in with SUDO permissions.
+<br />
+<br />
+<b><i>extract-tar-gz.sh</i></b>
+<br />
+Extracts .tar.gz files to a specific destination.
